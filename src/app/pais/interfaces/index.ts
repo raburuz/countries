@@ -1,0 +1,1 @@
+export { Pais } from './pais';
